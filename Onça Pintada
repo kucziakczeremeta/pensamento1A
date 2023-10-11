@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>ONÇA-PINTADA></title>
+        <link rel="stylesheet" href="produtos.css">
+    </head>
+    <body>
+        <header>
+            <h1><img src="logo.png"></h1>
+
+            <ul>
+                <li>home</li>
+                <li>Produtos</li>
+                <li>Contato</li>
+            </ul>
+        </header>
+    </body>
+</html>    
+   <p> A onça-pintada é um mamífero carnívoro da família Felidae. Geralmente, apresenta pelagem amarelada com manchas em
+                formato de rosetas pretas.A onça-pintada é um mamífero da Ordem Carnivora e Familia
+                Felidae. Atualmente é mais encontrada na América Latina, por exemplo, no Brasil. Ela é considerada o maior felino
+                das Américas e o maior carnívoro da América do Sul, podendo pesar até 135 kg.</p>
+        
+            <strong>DESCRIÇÃO</strong>
+            <p>* A onça-pintada (Panthera onca) é um felino pertencente ao gênero Panthera.
+        
+                * No Brasil, ocorre em praticamente todos os biomas.
+        
+                * As maiores onças-pintadas são encontradas no Pantanal.
+        
+                * Onças-pintadas apresentam dois padrões de pelagem, sendo o mais conhecido a coloração amarelada com rosetas
+                pretas.
+        
+                * São caçadoras oportunistas e são estritamente carnívoras.
+        
+                * Ocasionalmente, as onças-pintadas se alimentam de animais domésticos.
+        
+                * Atualmente, a onça-pintada está classificada na Lista Vermelha da União Internacional Para Conservação da Natureza
+                e dos Recursos Naturais (IUCN) como quase ameaçada de extinção </p>
+        
+    <strong> ALIMENTAÇÃO</strong>
+    <p>As onças-pintadas são animais carnívoros considerados caçadores oportunistas, atacando presas que, geralmente, estão
+        distraídas. Podem se alimentar de uma grande variedade de animais,
+        com mais de 85 espécies diferentes identificadas como partes da sua dieta. Como apresentam uma distribuição
+        geográfica grande, a dieta está relacionada com o local onde o indivíduo se desenvolve.</p>
+
+    <p><strong> A ONÇA PINTADA ESTA AMEAÇADA DE EXTINÇÃO?</strong></p>
+    <p>atualmente, a onça-pintada está classificada globalmente na Lista Vermelha da IUCN como quase ameaçada.</p>
+
+    <img src="ONÇA" </body>
+
