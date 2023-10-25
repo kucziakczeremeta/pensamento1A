@@ -21,24 +21,33 @@
                 formato de rosetas pretas.A onça-pintada é um mamífero da Ordem Carnivora e Familia
                 Felidae. Atualmente é mais encontrada na América Latina, por exemplo, no Brasil. Ela é considerada o maior felino
                 das Américas e o maior carnívoro da América do Sul, podendo pesar até 135 kg.</p>
+            </ul>
+        </nav>
+      </div>
+        </header>  
+        <main>
         
             <strong>DESCRIÇÃO</strong>
-            <p>* A onça-pintada (Panthera onca) é um felino pertencente ao gênero Panthera.
+            <p>* A onça-pintada (Panthera onca) é um felino pertencente ao gênero Panthera.</p>
         
-                * No Brasil, ocorre em praticamente todos os biomas.
+            <p> * No Brasil, ocorre em praticamente todos os biomas.</p>
         
-                * As maiores onças-pintadas são encontradas no Pantanal.
+            <p> * As maiores onças-pintadas são encontradas no Pantanal.</p>
         
-                * Onças-pintadas apresentam dois padrões de pelagem, sendo o mais conhecido a coloração amarelada com rosetas
-                pretas.
+            <p> * Onças-pintadas apresentam dois padrões de pelagem, sendo o mais conhecido a coloração amarelada com rosetas
+                pretas.</p>
         
-                * São caçadoras oportunistas e são estritamente carnívoras.
+            <p> * São caçadoras oportunistas e são estritamente carnívoras.</p>
         
-                * Ocasionalmente, as onças-pintadas se alimentam de animais domésticos.
+            <p> * Ocasionalmente, as onças-pintadas se alimentam de animais domésticos.</p>
         
-                * Atualmente, a onça-pintada está classificada na Lista Vermelha da União Internacional Para Conservação da Natureza
+            <p> * Atualmente, a onça-pintada está classificada na Lista Vermelha da União Internacional Para Conservação da Natureza
                 e dos Recursos Naturais (IUCN) como quase ameaçada de extinção </p>
-        
+                <p></p>
+            </li>
+          </ul>
+        </main>
+        <footer> 
     <strong> ALIMENTAÇÃO</strong>
     <p>As onças-pintadas são animais carnívoros considerados caçadores oportunistas, atacando presas que, geralmente, estão
         distraídas. Podem se alimentar de uma grande variedade de animais,
@@ -48,5 +57,8 @@
     <p><strong> A ONÇA PINTADA ESTA AMEAÇADA DE EXTINÇÃO?</strong></p>
     <p>atualmente, a onça-pintada está classificada globalmente na Lista Vermelha da IUCN como quase ameaçada.</p>
 
-    <img src="ONÇA" </body>
+    <img src="ONÇA"
 
+ </footer>
+</body>
+</html>
